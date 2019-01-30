@@ -45,7 +45,7 @@ table.table.ui-jqgrid-htable  tr th:last-child {
 	position: relative;
 	top: 1px;
 	display: inline-block;
-	font-family: 'Glyphicons Halflings';
+    font-family: 'Roboto', sans-serif;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 1;
@@ -403,7 +403,7 @@ th[aria-selected=true] .ui-jqgrid-sortable {
 
 .ui-jqgrid .ui-jqgrid-titlebar-close .ui-icon:before {
     display: inline-block;
-    font-family: FontAwesome;
+    font-family: 'Roboto', sans-serif;
     content: "\f077";
     color: #FFF;
 }
